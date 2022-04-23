@@ -12,7 +12,7 @@ Reward accumulates during the cycle (1week) and can be claimed after the end of 
 
 Algem distributes 80% of the dApp revenue via ALGM staking. 
 
-![](./5.png)
+![](./5.jpg)
 
 **Q: Which token will I receive via ALGM staking?**
 
