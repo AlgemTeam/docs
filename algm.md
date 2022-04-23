@@ -13,9 +13,9 @@ ollowing Astar Network’s values, we decided not to make any of our governance 
 
 ## Distribution {#distribution}
 
-- Total supply: 100 000 000 tokens.
-- Locking Incentive: 60%, 60 000 000 tokens over the 6 years;
-- Team: 15%, 15 000 000 tokens, linear unlocking from the launch during the 3 years;
-- Reserve: 15%, 15 000 000 tokens. Unexpected expenditures, additional incentives etc.
-- Community Growth: 7%, 10 000 000 tokens, marketing, events etc.;
-- Airdrop: 3%, 3 000 000 tokens.
+- Total supply: **100 000 000** tokens.
+- Locking Incentive: **60%**, 60 000 000 tokens over the 6 years;
+- Team: **15%**, 15 000 000 tokens, linear unlocking from the launch during the 3 years;
+- Reserve: **15%**, 15 000 000 tokens. Unexpected expenditures, additional incentives etc.
+- Community Growth: **7%**, 10 000 000 tokens, marketing, events etc.;
+- Airdrop: **3%**, 3 000 000 tokens.
