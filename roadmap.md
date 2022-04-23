@@ -5,4 +5,4 @@ slug: /roadmap
 ---
 ![](./roadmap.png)
 
-* Sequence and composition of the works in this roadmap can be changed for the purposes of Algem success. 
+**Sequence and composition of the works in this roadmap can be changed for the purposes of Algem success.**
