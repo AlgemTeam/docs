@@ -5,6 +5,5 @@ slug: /locking-rewards
 ---
 
 Algem incentivizes users to hold tokens via the triple rewards system:
-- ALGM Incentives
-- dApp Staking
-- Penalties pool
+
+![](./0.jpg)
